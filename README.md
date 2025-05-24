@@ -17,7 +17,7 @@ def  __social__(self):
  └─$
 ```
 
-<h3 align="center">📩d;hisleryalan1337📩</h3>
+<h3 align="center">📩d;133773310📩</h3>
  
 <p align="center">
 <a href="https://www.instagram.com/ahmeetttellibes/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-black?logo=instagram" alt="instagram" /></a>
