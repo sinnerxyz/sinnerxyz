@@ -4,20 +4,20 @@
 
 
 ```python
-┌──(sinner@root)-[~/]
-└─$ cat sinner.py
+┌──(rixa@root)-[~/]
+└─$ cat rixa.py
 
 class sinner:
 
 def  __social__(self):
- self.dc = "sinner"
- self.ig = "sinner1337"
+ self.dc = "rixa"
+ self.ig = "rixa1337"
   
- ┌──(sinner@root)-[~/]
+ ┌──(rixa@root)-[~/]
  └─$
 ```
 
-<h3 align="center">📩d;133773310📩</h3>
+<h3 align="center">📩d;sansinidene1337📩</h3>
  
 <p align="center">
 <a href="https://www.instagram.com/ahmeetttellibes/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-black?logo=instagram" alt="instagram" /></a>
