@@ -7,7 +7,7 @@
 ┌──(rixa@root)-[~/]
 └─$ cat rixa.py
 
-class sinner:
+class rixa:
 
 def  __social__(self):
  self.dc = "rixa"
